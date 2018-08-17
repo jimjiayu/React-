@@ -1,0 +1,14 @@
+.rightNav,.leftNav {
+    margin: 0 auto;
+    width:500px;
+}
+.rightNav{
+    margin-top: 10px;
+}
+.rightNav .delete{
+    display: inline-block;
+    float: right;
+    color:#abcdff;
+    
+
+}
